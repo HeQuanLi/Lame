@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/.cxx/Debug/54453n48/x86",
+  "command": "/Users/hunter/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android29 --sysroot=/Users/hunter/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DLames_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/Lames.dir/Lames.cpp.o -c /Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/src/main/cpp/Lames.cpp",
+  "file": "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/src/main/cpp/Lames.cpp"
+}
+]

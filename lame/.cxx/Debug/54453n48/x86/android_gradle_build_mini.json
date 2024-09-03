@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hunter/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/.cxx/Debug/54453n48/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hunter/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/.cxx/Debug/54453n48/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Lames::@6890427a1f51a3e7e1df": {
+      "artifactName": "Lames",
+      "abi": "x86",
+      "output": "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/build/intermediates/cxx/Debug/54453n48/obj/x86/libLames.so",
+      "runtimeFiles": [
+        "/Users/hunter/CodeRepo/DeleteCode/AndroidLame/lame/src/main/jniLibs/x86/libmp3lame.so"
+      ]
+    }
+  }
+}
